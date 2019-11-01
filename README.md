@@ -1,3 +1,3 @@
 ## DM26 Full-stack project example
 
-Built along with students while explaining concepts along the way.
+Built along with students while explaining concepts.
